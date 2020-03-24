@@ -4,7 +4,9 @@
 
 ### Put the URL of the article below
 
-### URL: https://medium.com/@singh.prashantking/importance-of-functional-programming-in-general-365ccabbffb2?sk=2ee5a1a6888bbcad9042f190e8b62a7e
+### URL: https://medium.com/@singh.prashantking/importance-of-functional-programming-in-general-365ccabbffb2
+
+// url update
 
 _Example-_
 
