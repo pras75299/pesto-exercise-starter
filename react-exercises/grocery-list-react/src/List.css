@@ -1,0 +1,27 @@
+.unorderGrocery-list {
+  margin: 25px auto;
+  width: 70%;
+  background: #fcfcfc;
+  border-radius: 10px;
+  border: #e7e7e7 solid 1px;
+  padding: 20px;
+  list-style: none;
+}
+.unorderGrocery-list h1 {
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 15px;
+  color: #444;
+}
+
+.unorderGrocery-list li {
+  display: inline-block;
+  background: #ddd;
+  width: 156px;
+  height: 115px;
+  color: #000;
+  text-align: center;
+  border-radius: 7px;
+  box-shadow: #c4c4c4 0 2px 6px;
+  margin: 10px;
+}
