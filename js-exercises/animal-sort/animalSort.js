@@ -3,9 +3,9 @@ function animalSort(arr) {
     if (a.numberOfLegs !== b.numberOfLegs) {
       return a.numberOfLegs - b.numberOfLegs;
     } else if (a.numberOfLegs === b.numberOfLegs) {
-      let aName = a.name.toLowerCase();
-      let bName = b.name.toLowerCase();
-      return aName < bName ? -1 : aName > bName ? 1 : 0;
+      let aAnimalName = a.name.toLowerCase();
+      let bAnimalName = b.name.toLowerCase();
+      return aAnimalName < bAnimalName ? -1 : aAnimalName > bAnimalName ? 1 : 0;
     }
   });
 

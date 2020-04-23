@@ -10,8 +10,10 @@ describe("animalSort", () => {
       { name: "Dog", numberOfLegs: 4 },
       { name: "Bird", numberOfLegs: 2 },
       { name: "Snake", numberOfLegs: 0 },
+      { name: "Pet", numberOfLegs: 0 },
     ];
     const result = [
+      { name: "Pet", numberOfLegs: 0 },
       { name: "Snake", numberOfLegs: 0 },
       { name: "Bird", numberOfLegs: 2 },
       { name: "Dog", numberOfLegs: 4 },
